@@ -837,3 +837,5 @@ print(infix_equation, '=', result)
 **输出结果：**
 
 ![img](./assets/clip_image052.jpg)
+
+完整的代码见`lstm.py`
