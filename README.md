@@ -1,4 +1,4 @@
-# imageRecognition
+# ImageRecognition
 
 本仓库分为两个项目
 
